@@ -1,0 +1,14 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+.error {
+  display: none;
+  margin-top: 20px;
+  color: red;
+  border: 1px solid red;
+  padding: 10px 40px;
+}
+.error.show {
+  display: block;
+}
